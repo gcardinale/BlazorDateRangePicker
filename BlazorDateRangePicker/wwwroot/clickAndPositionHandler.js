@@ -7,6 +7,7 @@ var clickAndPositionHandler = {
     listeners: []
 };
 
+/*
 export function addClickOutsideEvent(elementId, parentId, dotnetHelper) {
     if (clickAndPositionHandler.listeners.indexOf(elementId) > -1) return;
     window.addEventListener("click", function (e) {
@@ -20,6 +21,7 @@ export function addClickOutsideEvent(elementId, parentId, dotnetHelper) {
     });
     clickAndPositionHandler.listeners.push(elementId);
 };
+*/
 
 export function getPickerPosition(elementId, parentId, drops, opens, skipAddListener) {
     var resizeFunction = function () {
