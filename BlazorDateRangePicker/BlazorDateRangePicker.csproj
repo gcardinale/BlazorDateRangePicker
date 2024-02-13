@@ -10,11 +10,11 @@
 		<RazorLangVersion>3.0</RazorLangVersion>
 
 		<Version>5.2.0</Version>
-		<Authors>Sergey Zaikin</Authors>
-		<PackageId>BlazorDateRangePicker</PackageId>
-		<Title>Blazor Date Range Picker</Title>
+		<Authors>Genio Speciale</Authors>
+		<PackageId>GenioBlazorDateRangePicker</PackageId>
+		<Title>Genio Blazor Date Range Picker</Title>
 		<Description>A fully managed port of daterangepicker.js for Blazor</Description>
-		<PackageProjectUrl>https://github.com/jdtcn/BlazorDateRangePicker</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/gcardinale/BlazorDateRangePicker</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/jdtcn/BlazorDateRangePicker</RepositoryUrl>
 		<PackageTags>blazor;daterangepicker;datepicker</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
