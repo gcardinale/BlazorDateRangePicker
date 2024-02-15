@@ -9,7 +9,7 @@
 		<LangVersion>preview</LangVersion>
 		<RazorLangVersion>3.0</RazorLangVersion>
 
-		<Version>5.2.1</Version>
+		<Version>5.2.2</Version>
 		<Authors>Genio Speciale</Authors>
 		<PackageId>GenioBlazorDateRangePicker</PackageId>
 		<Title>Genio Blazor Date Range Picker</Title>
@@ -18,6 +18,7 @@
 		<RepositoryUrl>https://github.com/jdtcn/BlazorDateRangePicker</RepositoryUrl>
 		<PackageTags>blazor;daterangepicker;datepicker</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<AssemblyName>GenioBlazorDateRangePicker</AssemblyName>
 	</PropertyGroup>
 
 	<ItemGroup>

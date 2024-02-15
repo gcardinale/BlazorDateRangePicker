@@ -427,7 +427,7 @@ namespace BlazorDateRangePicker
         public bool Render { get; set; }
 
         private Task<IJSObjectReference> _module;
-        private readonly string ImportPath = $"./_content/BlazorDateRangePicker/clickAndPositionHandler.js?v=" +
+        private readonly string ImportPath = $"./_content/GenioBlazorDateRangePicker/clickAndPositionHandler.js?v=" +
             typeof(DateRangePicker).Assembly.GetName().Version.ToString();
 
         private Task<IJSObjectReference> Module => _module ??= JSRuntime.InvokeAsync<IJSObjectReference>("import", ImportPath).AsTask();
